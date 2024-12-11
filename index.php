@@ -27,5 +27,5 @@ $books = [
         return $book['author'] === 'Andy Weir';
     });
 
-    require "index.view.php";
+    require "views/index.view.php";
 
